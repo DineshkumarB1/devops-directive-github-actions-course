@@ -1,1 +1,5 @@
-I am making some changes to this file
+paths :
+  # include markdown files
+  - "03-core-features/filters/*.md"
+  # Exclude txt files
+  - "!03-core-features/filters/*.txt"
